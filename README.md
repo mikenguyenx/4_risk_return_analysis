@@ -38,8 +38,8 @@ To run the script for the Fund Portfolio Risk Return Analysis:
 1. Open a terminal or command prompt and navigate to the directory with the analysis.
 1. Launch Jupyter Lab: `jupyter lab`
 2. Open `risk_return_analysis.ipynb` in Jupyter Lab.
-3. Run the code cells by clicking on the run button or by pressing the "Shift + Enter" key combination to load and preprocess the data, and generate visualizations
-4. The script uses Pandas to collect CSV data into the Jupyter notebook file for analysis using statistical algorithms and Matplotlib visualizations to analyze fund portfolio performance, risk, volatility, and portfolio returns. 
+3. Run the code cells by clicking on the run button or by pressing the `Shift + Enter` key combination to load and preprocess the data, and generate visualizations
+4. The script uses `Pandas` to collect CSV data into the `Jupyter notebook` file for analysis using statistical algorithms and `Matplotlib` visualizations to analyze fund portfolio performance, risk, volatility, and portfolio returns. 
 
 Below are screenshots of examples of results from the analysis:
 
