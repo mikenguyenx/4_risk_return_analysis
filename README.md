@@ -28,7 +28,7 @@ To run this analysis, make sure you install the necessary dependencies:
 ```
 pip install pandas pathlib numpy matplotlib
 ```
-4. Clone the repository: 'git clone "https://github.com/mikenguyenx/4_risk_return_analysis" using git or download the ZIP file and extract it to a local directory.
+4. Clone the repository: `git clone "https://github.com/mikenguyenx/4_risk_return_analysis"` using git or download the ZIP file and extract it to a local directory.
 
 
 ## Usage
